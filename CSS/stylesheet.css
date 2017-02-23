@@ -1,5 +1,5 @@
 body {
-	background : #E6E6FA;
+	background : #FAF0E6;
 	margin : 0;
 	padding : 0;
 	font-family : "Helvetica", "Arial";
@@ -7,7 +7,7 @@ body {
 #wrapper {
 	width : 70%;
 	height : auto;
-	background : #F0FFFF;
+	background : #E6E6FA;
 	border-left : 5px solid #A09885;
 	border-right : 5px solid #A09885;
 	overflow : auto;
